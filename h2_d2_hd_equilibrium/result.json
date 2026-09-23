@@ -1,0 +1,46 @@
+{
+  "temperature_K": 298.15,
+  "pressure_Pa": 101325.0,
+  "electronic_energy_hartree": -1.175482410917166,
+  "bond_length_angstrom": 0.7427882133009344,
+  "species": {
+    "H2": {
+      "mass_amu": 2.01565006446,
+      "symmetry_number": 2,
+      "frequency_cm-1": 4453.123088708855,
+      "q_trans": 112480.35907104365,
+      "q_rot": 1.70883458227777,
+      "q_vib": 2.1559879779129493e-05,
+      "inertia_kg_m2": 4.616727594591608e-48,
+      "electronic_degeneracy": 1
+    },
+    "D2": {
+      "mass_amu": 4.02820355624,
+      "symmetry_number": 2,
+      "frequency_cm-1": 3150.0435913428882,
+      "q_trans": 317776.005605862,
+      "q_rot": 3.4150439417674074,
+      "q_vib": 0.0005001747790211709,
+      "inertia_kg_m2": 9.226362672087871e-48,
+      "electronic_degeneracy": 1
+    },
+    "HD": {
+      "mass_amu": 3.02192681035,
+      "symmetry_number": 1,
+      "frequency_cm-1": 3857.0117874704597,
+      "q_trans": 206480.90807375975,
+      "q_rot": 4.55572485593055,
+      "q_vib": 9.084509058249386e-05,
+      "inertia_kg_m2": 6.154059870355144e-48,
+      "electronic_degeneracy": 1
+    }
+  },
+  "equilibrium_constant": {
+    "K_trans": 1.1927845557534558,
+    "K_rot": 3.5564659345857548,
+    "K_vib": 0.7653054406850693,
+    "K_elec": 1.0,
+    "K_total": 3.2465004036846765,
+    "delta_E_elec_hartree": 0.0
+  }
+}

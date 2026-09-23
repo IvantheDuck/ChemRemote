@@ -1,0 +1,2 @@
+load gaussian16 module
+/var/spool/slurmd/job14052/slurm_script: line 17: g16: command not found
